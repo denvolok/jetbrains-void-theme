@@ -4,7 +4,7 @@
   "dark": true,
   "editorScheme": "/Void.xml",
   "colors": {
-    "accent": "#909fb7",
+    "accent": "#3a71f8",
     "green": "#1ca12d",
     "red": "#e9242e",
     "blue": "#5c9bf3",
@@ -93,7 +93,7 @@
     "DefaultTabs": {
       "background": "header-bg-inactive",
       "underlineHeight": "2",
-      "underlineColor": "accent",
+      "underlineColor": "#989fbb",
       "underlinedTabBackground": "header-bg",
       "inactiveUnderlineColor": "#576274"
     },
@@ -232,7 +232,7 @@
     },
     "VersionControl": {
       "Log.Commit": {
-        "currentBranchBackground": "#1d2623",
+        "currentBranchBackground": "#24272a",
         "unmatchedForeground": "#696e81",
         "hoveredBackground": "hover-bg"
       },
@@ -259,7 +259,8 @@
     "GotItTooltip.background": "#1f2023",
      "ScrollBar": {
        "Transparent.trackColor": "#1a1a23",
-       "Transparent.thumbColor": "#2b2c3a"
+       "Transparent.thumbColor": "#2b2c3a",
+       "Transparent.hoverThumbColor": "#363849"
      },
     "SearchOption.selectedBackground": "input-bg",
     "ToolTip.borderColor": "border-lighter",
